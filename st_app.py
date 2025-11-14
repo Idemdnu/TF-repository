@@ -3,7 +3,6 @@
 import os
 import streamlit as st
 import numpy as np
-from dotenv import load_dotenv
 from PIL import Image
 import tensorflow as tf
 from tensorflow.keras.preprocessing import image
